@@ -1,0 +1,15 @@
+body{
+    /* background-image: url('public/images/Background.png'); */
+    background-image: url('https://4kwallpapers.com/images/walls/thumbs/8324.png');
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-size: 48px;
+}
+
+form{
+    background-color: rgba(200, 200, 200, 0.7);
+}
+
